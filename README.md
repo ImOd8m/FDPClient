@@ -7,7 +7,7 @@
 A free mixin-based injection hacked-client for Minecraft using Minecraft Forge based on LiquidBounce.
 
 Website: https://e-z.bio/od8m
-Latest: [github-actions](https://github.com/ImOd8m/FDPClient/actions/workflows/build.yml?query=event%3Apush)    
+Latest: [github-actions](https://github.com/ImOd8m/FDPClient/)    
 Discord: https://discord.gg/fkdfayY2Gc  
 
 ## Issues
